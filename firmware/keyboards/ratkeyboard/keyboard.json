@@ -1,0 +1,38 @@
+{
+  "keyboard_name": "ratkeyboard",
+  "maintainer": "You",
+  "manufacturer": "You",
+  "product": "ratkeyboard",
+  "usb": {
+    "vid": "0xFEED",
+    "pid": "0x0000",
+    "device_version": "1.0.0"
+  },
+  "processor": "RP2040",
+  "bootloader": "rp2040",
+  "width": 3,
+  "height": 2,
+  "features": {
+    "encoder": true,
+    "oled": true
+  },
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        {"label":"Switch 1", "matrix": [0, 0], "x":0, "y":0}, {"label":"Switch 2", "matrix": [0, 1], "x":1, "y":0}, {"label":"Knob Button", "matrix": [0, 2], "x":2, "y":0},
+        {"label":"Switch 3", "matrix": [1, 0], "x":0, "y":1}, {"label":"Switch 4", "matrix": [1, 1], "x":1, "y":1}
+      ]
+    }
+  },
+  "matrix_pins": {
+    "direct": [
+      ["GP22", "GP21", "GP28"],
+      ["GP20", "GP19", "NO_PIN"]
+    ]
+  },
+  "encoder": {
+    "rotary": [
+      {"pin_a": "GP26", "pin_b": "GP27"}
+    ]
+  }
+}

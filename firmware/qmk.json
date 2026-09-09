@@ -1,0 +1,8 @@
+﻿{
+  "setup": {
+    "firmware": {
+      "keyboard_aliases": {},
+      "targets": {}
+    }
+  }
+}
