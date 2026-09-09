@@ -1,7 +1,7 @@
 {
   "keyboard_name": "ratkeyboard",
-  "maintainer": "You",
-  "manufacturer": "You",
+  "maintainer": "oxy",
+  "manufacturer": "oxy",
   "product": "ratkeyboard",
   "usb": {
     "vid": "0xFEED",
