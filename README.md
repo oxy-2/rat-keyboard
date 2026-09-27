@@ -33,10 +33,10 @@ oh and heres a pic from cad:
 ![](https://github.com/oxy-2/rat-keyboard/blob/main/pcb%20images/cad.png)
 
 shcematic:
-
+![](https://github.com/oxy-2/rat-keyboard/blob/main/pcb%20images/schematic.png)
 
 pcb in kicad:
-
+![](https://github.com/oxy-2/rat-keyboard/blob/main/pcb%20images/pcb.png)
 
 but yeah so its got 4 keys, a rotary encoder with a switch and a oled, on the oled it has wrapping text that spins and its correlated to the system volume which the knob can change and a press down is a volume mute and unmute, rn the text is "i love rats <3" but if you don't like it or want sum else you can easily change it in the firmware.
 oh yeah btw the onshape document is set to public so you can check it out at the link [here](https://cad.onshape.com/documents/287181afc6cc633650b51987/w/7a5487d578a409bebd3abe5a/e/d938dcab35d572d75bd97ac9?renderMode=0&uiState=6aafc34289e7540c48d2f54f)
