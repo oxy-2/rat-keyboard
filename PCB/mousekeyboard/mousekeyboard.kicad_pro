@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../pcb files for jlcpcb/",
       "specctra_dsn": "",
       "step": "mousekeyboard.stl",
       "vrml": ""
