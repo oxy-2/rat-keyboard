@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.5"
     },
-    "CreationDate": "2026-09-09T18:00:22+01:00"
+    "CreationDate": "2026-10-29T21:42:24+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,37 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "mousekeyboard-F_Cu.gtl",
+      "Path": "mousekeyboard-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mousekeyboard-B_Cu.gbl",
+      "Path": "mousekeyboard-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mousekeyboard-F_Silkscreen.gto",
+      "Path": "mousekeyboard-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "mousekeyboard-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "mousekeyboard-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mousekeyboard-B_Silkscreen.gbo",
+      "Path": "mousekeyboard-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mousekeyboard-F_Mask.gts",
+      "Path": "mousekeyboard-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "mousekeyboard-B_Mask.gbs",
+      "Path": "mousekeyboard-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "mousekeyboard-Edge_Cuts.gm1",
+      "Path": "mousekeyboard-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
