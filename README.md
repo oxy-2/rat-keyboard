@@ -25,7 +25,7 @@ but yeah so the build will of course need its pcbs, the pcbs fit the under the m
 
 front:
 ![](https://github.com/oxy-2/rat-keyboard/blob/main/pcb%20images/front.png)
-
+![[front.png]]
 back:
 ![](https://github.com/oxy-2/rat-keyboard/blob/main/pcb%20images/back.png)
 
